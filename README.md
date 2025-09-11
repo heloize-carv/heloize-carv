@@ -1,13 +1,13 @@
-# 👩🏻‍💻 Heloíze Carvalho  
+# 👩🏻‍💻 Maria Heloíze de Queiroz Carvalho  
 
-**`Estudante de Tecnologia da Informação`**  
+**`Estudante de Tecnologia da Informação | Técnica em Administração | Mulher na Tecnologia`**  
 
 Me chamo **Maria Heloíze de Queiroz Carvalho**, tenho 18 anos e sou natural do **Rio Grande do Norte**.  
 Concluí o ensino médio na **EEEP Professora Maria Célia Pinheiro Falcão**, com o curso técnico em **Administração**.  
-Atualmente, curso **Bacharelado Interdisciplinar em Tecnologia da Informação** na **UFERSA - Campus Pau dos Ferros**.  
+Em **2025**, iniciei minha graduação no **Bacharelado Interdisciplinar em Tecnologia da Informação (UFERSA - Campus Pau dos Ferros)**.  
 
-Sou apaixonada por **aprendizado contínuo**, buscando sempre evoluir em **programação, tecnologia e desenvolvimento pessoal**.  
-Atualmente, faço parte do **Grupo de Pesquisa em Teste de Software**, explorando conceitos como **mutação e qualidade de software**.  
+Sou apaixonada por **aprendizado contínuo**, buscando sempre evoluir em **programação, pesquisa e desenvolvimento pessoal**.  
+Atualmente, participo do **Grupo de Pesquisa em Teste de Software**, com foco em **mutação e qualidade de software**.  
 
 💜 Como **mulher na área de tecnologia**, tenho orgulho de estar construindo minha trajetória em um espaço que ainda precisa de mais representatividade feminina.  
 
@@ -32,14 +32,15 @@ Atualmente, faço parte do **Grupo de Pesquisa em Teste de Software**, explorand
 
 ![C](https://img.shields.io/badge/C-A020F0?style=for-the-badge&logo=c&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white)  
+![LaTeX](https://img.shields.io/badge/LaTeX-8A2BE2?style=for-the-badge&logo=latex&logoColor=white)  
 
 ---
 
 ## 📈 Minha Jornada  
 
-- 🎓 **2024** – Concluí o ensino médio técnico em Administração.  
+- 🎓 **2022** – Concluí o ensino médio técnico em Administração.  
 - 💻 **2025** – Início da graduação em Tecnologia da Informação (UFERSA).  
-- 🚀 **Atualmente** – Estudando C, Git e participando do Grupo de Pesquisa em Teste de Software.  
+- 🚀 **Atualmente** – Estudando C, Git, LaTeX e participando do Grupo de Pesquisa em Teste de Software.  
 - 🌎 **Futuro** – Quero me tornar desenvolvedora e pesquisadora em tecnologia.  
 
 ---
